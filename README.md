@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=100&width=450&lines=System.out.println(%22Hello%2C%20World%22)%3B;)
 
 ![](https://raw.githubusercontent.com/tangmingshuai/tangmingshuai/main/dist/ocean.gif)
-
-![Metrics](https://metrics.lecoq.io/tangmingshuai?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
