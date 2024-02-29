@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://count.getloli.com/get/@tangmingshuai.github.readme?theme=rule34)
 
 ![](https://raw.githubusercontent.com/tangmingshuai/tangmingshuai/main/dist/ocean.gif)
