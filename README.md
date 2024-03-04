@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**tangmingshuai/tangmingshuai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**T-Evan/T-Evan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://count.getloli.com/get/@tangmingshuai.github.readme?theme=rule34)
+![](https://count.getloli.com/get/@T-Evan.github.readme?theme=rule34)
 
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=100&width=450&lines=System.out.println(%22Hello%2C%20World%22)%3B;)
 
-![](https://raw.githubusercontent.com/tangmingshuai/tangmingshuai/main/dist/ocean.gif)
+![](https://raw.githubusercontent.com/T-Evan/T-Evan/main/dist/ocean.gif)
 
-<a href="https://github.com/tangmingshuai">
-  <img align="center" height="165" src="https://hex-stats.vercel.app/api?username=tangmingshuai&show_icons=true&include_all_commits=true" alt="Evan's github stats">
+<a href="https://github.com/T-Evan">
+  <img align="center" height="165" src="https://hex-stats.vercel.app/api?username=T-Evan&show_icons=true&include_all_commits=true" alt="Evan's github stats">
 </a>
-<a href="https://github.com/tangmingshuai">
-  <img align="center" src="https://hex-stats.vercel.app/api/top-langs/?username=tangmingshuai&layout=compact">
+<a href="https://github.com/T-Evan">
+  <img align="center" src="https://hex-stats.vercel.app/api/top-langs/?username=T-Evan&layout=compact">
 </a>
